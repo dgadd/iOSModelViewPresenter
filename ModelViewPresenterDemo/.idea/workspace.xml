@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cb00173-72d5-44da-a760-ff5e873bee92" name="Default" comment="" />
+    <ignored path="ModelViewPresenterDemo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ModelViewPresenterDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.h" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo.xcodeproj/project.pbxproj" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.h" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Views/IDisplayBooksView.h" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListTableViewControllerTests.m" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListTableViewControllerTests.h" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/DisplayBooksTableViewControllerTests.h" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/DisplayBooksTableViewControllerTests.m" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/IBookStoreRepository.h" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Presenters/BookListPresenter.m" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Presenters/BookListPresenter.h" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/RestJsonBookStoreRepository.h" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/RestJsonBookStoreRepository.m" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.m" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.m" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="22" />
+    <option name="width" value="1340" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="DirectoryView.Xcode">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModelViewPresenterDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeDirectoryView$1$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModelViewPresenterDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModelViewPresenterDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModelViewPresenterDemoTests" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodePBXReferenceNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.ModelViewPresenterDemo">
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="OCUnit" PROJECT_NAME="ModelViewPresenterDemo" TARGET_NAME="ModelViewPresenterDemoTests" CONFIG_NAME="Debug" DESTINATION_ID="iphonesimulator_5.1_1" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method>
+        <option name="com.jetbrains.cidr.execution.BuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.StopCurrentSessionBeforeRunTaskProvider$StopCurrentSessionBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PROJECT_NAME="ModelViewPresenterDemo" TARGET_NAME="ModelViewPresenterDemo" CONFIG_NAME="Debug" DESTINATION_ID="iphonesimulator_5.1_1" RUN_TARGET_PROJECT_NAME="ModelViewPresenterDemo" RUN_TARGET_NAME="ModelViewPresenterDemo" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <method>
+        <option name="com.jetbrains.cidr.execution.BuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.StopCurrentSessionBeforeRunTaskProvider$StopCurrentSessionBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="ModelViewPresenterDemo" type="AppleRunConfiguration" factoryName="Application" SCHEME_NAME="ModelViewPresenterDemo" PROJECT_NAME="ModelViewPresenterDemo" TARGET_NAME="ModelViewPresenterDemo" CONFIG_NAME="Debug" DESTINATION_ID="iphonesimulator_5.1_1" RUN_TARGET_PROJECT_NAME="ModelViewPresenterDemo" RUN_TARGET_NAME="ModelViewPresenterDemo" DEBUGGER="LLDB" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All Tests" type="OCUnitRunConfiguration" factoryName="OCUnit" SCHEME_NAME="All Tests" PROJECT_NAME="ModelViewPresenterDemo" TARGET_NAME="ModelViewPresenterDemoTests" CONFIG_NAME="Debug" DESTINATION_ID="iphonesimulator_5.1_1" DEBUGGER="GDB" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.ModelViewPresenterDemo" />
+      <item index="1" class="java.lang.String" itemvalue="OCUnit.All Tests" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cb00173-72d5-44da-a760-ff5e873bee92" name="Default" comment="" />
+      <created>1341709450042</created>
+      <updated>1341709450042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="22" width="1340" height="734" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981017" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="135" selection-end="135" vertical-scroll-proportion="0.18656716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.53984576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/AppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo.xcodeproj/project.pbxproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="476" column="20" selection-start="21809" selection-end="21809" vertical-scroll-proportion="0.6940874" />
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="38" selection-start="2411" selection-end="2411" vertical-scroll-proportion="-0.09166667" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="38" selection-start="158" selection-end="158" vertical-scroll-proportion="0.14925373" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/FakeBookStoreRepository.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="11" selection-start="123" selection-end="436" vertical-scroll-proportion="0.19575857" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/FakeBookStoreRepository.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="67" selection-start="136" selection-end="136" vertical-scroll-proportion="0.09787928" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Presenters/BookListPresenter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.22022839" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Views/IDisplayBooksView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.07340946" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/IBookStoreRepository.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="65" selection-end="65" vertical-scroll-proportion="0.07340946" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Presenters/BookListPresenter.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="656" selection-end="656" vertical-scroll-proportion="0.92544985" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="1" selection-start="1621" selection-end="1621" vertical-scroll-proportion="2.1268656" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="70" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.5106036">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

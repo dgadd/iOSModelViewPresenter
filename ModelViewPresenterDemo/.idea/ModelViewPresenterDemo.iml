@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/Library/Caches/appCode10/DerivedData/ModelViewPresenterDemo-4190a166/Build/Products/Debug-iphonesimulator/ModelViewPresenterDemo.app">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/appCode10/DerivedData/ModelViewPresenterDemo-4190a166/Build/Products/Debug-iphonesimulator/ModelViewPresenterDemo.app" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Library/Caches/appCode10/DerivedData/ModelViewPresenterDemo-4190a166/Build/Products/Debug-iphonesimulator/ModelViewPresenterDemoTests.octest">
+      <sourceFolder url="file://$USER_HOME$/Library/Caches/appCode10/DerivedData/ModelViewPresenterDemo-4190a166/Build/Products/Debug-iphonesimulator/ModelViewPresenterDemoTests.octest" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+
