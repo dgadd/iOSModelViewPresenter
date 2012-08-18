@@ -1,9 +1,10 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 @class BookListPresenter;
+@class DisplayBooksTableViewController;
 
 @interface BookListPresenterTests : SenTestCase {
-    BookListPresenter *sut;
+    DisplayBooksTableViewController *sut;
 }
 
 @end

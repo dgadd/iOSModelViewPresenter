@@ -1,9 +1,9 @@
 #import "BookListPresenterTests.h"
-#import "BookListPresenter.h"
 #import "OCMockObject.h"
 #import "IDisplayBooksView.h"
 #import "OCMockRecorder.h"
 #import "IBookStoreRepository.h"
+#import "DisplayBooksTableViewController.h"
 #import "FakeBookStoreRepository.h"
 
 @implementation BookListPresenterTests
@@ -21,7 +21,7 @@
     id displayBooksView = [OCMockObject mockForProtocol:@protocol(IDisplayBooksView)];
     [[displayBooksView expect] displayBooks:books];
 
-    sut = [[BookListPresenter alloc] initWithBookStoreRepository:bookStoreRepository andDisplayBooksView:displayBooksView];
+    sut = [[DisplayBooksTableViewController alloc] initWithBookStoreRepository:bookStoreRepository andDisplayBooksView:displayBooksView];
     [sut displayBooksFromBookstore];
 
 

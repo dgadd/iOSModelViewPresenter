@@ -21,7 +21,57 @@
     <favorites_list name="ModelViewPresenterDemo" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="IDisplayBooksView.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Views/IDisplayBooksView.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DisplayBooksTableViewController.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="77" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DisplayBooksTableViewController.m" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="76" selection-start="752" selection-end="752" vertical-scroll-proportion="0.63909775">
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookListPresenterTests.h" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="35" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookListPresenterTests.m" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="56" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -31,9 +81,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.h" />
         <option value="$PROJECT_DIR$/ModelViewPresenterDemo.xcodeproj/project.pbxproj" />
-        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.h" />
         <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Views/IDisplayBooksView.h" />
         <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListTableViewControllerTests.m" />
         <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListTableViewControllerTests.h" />
@@ -44,6 +92,8 @@
         <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Presenters/BookListPresenter.h" />
         <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/RestJsonBookStoreRepository.h" />
         <option value="$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/RestJsonBookStoreRepository.m" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.h" />
+        <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.h" />
         <option value="$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.m" />
         <option value="$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.m" />
       </list>
@@ -52,8 +102,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
     <option name="y" value="22" />
-    <option name="width" value="1340" />
-    <option name="height" value="734" />
+    <option name="width" value="1362" />
+    <option name="height" value="746" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -81,16 +131,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="DirectoryView.Xcode">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModelViewPresenterDemo" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeDirectoryView$1$1" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,6 +157,48 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodePBXReferenceNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModelViewPresenterDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModelViewPresenterDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodePBXReferenceNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModelViewPresenterDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModelViewPresenterDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodePBXReferenceNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ViewControllers" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodePBXReferenceNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="DirectoryView.Xcode">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ModelViewPresenterDemo" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeDirectoryView$1$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -127,7 +209,7 @@
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="" />
     <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
-  <component name="RunManager" selected="Application.ModelViewPresenterDemo">
+  <component name="RunManager" selected="OCUnit.All Tests">
     <configuration default="true" type="OCUnitRunConfiguration" factoryName="OCUnit" PROJECT_NAME="ModelViewPresenterDemo" TARGET_NAME="ModelViewPresenterDemoTests" CONFIG_NAME="Debug" DESTINATION_ID="iphonesimulator_5.1_1" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <method>
@@ -169,23 +251,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="22" width="1340" height="734" extended-state="0" />
+    <frame x="4" y="22" width="1362" height="746" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32668713" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32668713" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981017" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23226288" sideWeight="0.6733129" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32668713" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -246,11 +328,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="135" selection-end="135" vertical-scroll-proportion="0.18656716" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/AppDelegate.m">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.53984576" />
@@ -271,11 +348,6 @@
         <state line="57" column="38" selection-start="2411" selection-end="2411" vertical-scroll-proportion="-0.09166667" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="158" selection-end="158" vertical-scroll-proportion="0.14925373" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/FakeBookStoreRepository.m">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="11" selection-start="123" selection-end="436" vertical-scroll-proportion="0.19575857" />
@@ -286,35 +358,47 @@
         <state line="4" column="67" selection-start="136" selection-end="136" vertical-scroll-proportion="0.09787928" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Presenters/BookListPresenter.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.22022839" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Views/IDisplayBooksView.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="50" selection-end="50" vertical-scroll-proportion="0.07340946" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Repositories/IBookStoreRepository.h">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="12" selection-start="65" selection-end="65" vertical-scroll-proportion="0.07340946" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Presenters/BookListPresenter.m">
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="656" selection-end="656" vertical-scroll-proportion="0.92544985" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="1" selection-start="1621" selection-end="1621" vertical-scroll-proportion="2.1268656" />
+        <state line="6" column="35" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemoTests/BookListPresenterTests.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="70" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.5106036">
+        <state line="23" column="56" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/Views/IDisplayBooksView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="77" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModelViewPresenterDemo/ViewControllers/DisplayBooksTableViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="76" selection-start="752" selection-end="752" vertical-scroll-proportion="0.63909775">
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -21,7 +21,6 @@
 		72324F6915A9102B0034CA8A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 72324F6715A9102B0034CA8A /* InfoPlist.strings */; };
 		72324F7F15A910820034CA8A /* libOCMock.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 72324F7715A910820034CA8A /* libOCMock.a */; };
 		72324F7F15A910820034CA8D /* BookListPresenterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 72324F7F15A910820034CA8C /* BookListPresenterTests.m */; };
-		72324F7F15A910820034CA92 /* BookListPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 72324F7F15A910820034CA91 /* BookListPresenter.m */; };
 		72324F7F15A910820034CA98 /* DisplayBooksTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72324F7F15A910820034CA97 /* DisplayBooksTableViewController.m */; };
 		72324F7F15A910820034CA9F /* FakeBookStoreRepository.m in Sources */ = {isa = PBXBuildFile; fileRef = 72324F7F15A910820034CA9E /* FakeBookStoreRepository.m */; };
 /* End PBXBuildFile section */
@@ -62,8 +61,6 @@
 		72324F7E15A910820034CA8A /* OCMockRecorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCMockRecorder.h; sourceTree = "<group>"; };
 		72324F7F15A910820034CA8B /* BookListPresenterTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookListPresenterTests.h; sourceTree = "<group>"; };
 		72324F7F15A910820034CA8C /* BookListPresenterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookListPresenterTests.m; sourceTree = "<group>"; };
-		72324F7F15A910820034CA91 /* BookListPresenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookListPresenter.m; sourceTree = "<group>"; };
-		72324F7F15A910820034CA93 /* BookListPresenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookListPresenter.h; sourceTree = "<group>"; };
 		72324F7F15A910820034CA94 /* IDisplayBooksView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDisplayBooksView.h; sourceTree = "<group>"; };
 		72324F7F15A910820034CA96 /* DisplayBooksTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DisplayBooksTableViewController.h; sourceTree = "<group>"; };
 		72324F7F15A910820034CA97 /* DisplayBooksTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DisplayBooksTableViewController.m; sourceTree = "<group>"; };
@@ -136,7 +133,6 @@
 				72324F4F15A9102B0034CA8A /* MainStoryboard_iPhone.storyboard */,
 				72324F5215A9102B0034CA8A /* MainStoryboard_iPad.storyboard */,
 				72324F4415A9102B0034CA8A /* Supporting Files */,
-				72324F7F15A910820034CA8E /* Presenters */,
 				72324F7F15A910820034CA8F /* Views */,
 				72324F7F15A910820034CA90 /* Models */,
 				72324F7F15A910820034CA95 /* ViewControllers */,
@@ -203,15 +199,6 @@
 				72324F7E15A910820034CA8A /* OCMockRecorder.h */,
 			);
 			path = OCMock;
-			sourceTree = "<group>";
-		};
-		72324F7F15A910820034CA8E /* Presenters */ = {
-			isa = PBXGroup;
-			children = (
-				72324F7F15A910820034CA93 /* BookListPresenter.h */,
-				72324F7F15A910820034CA91 /* BookListPresenter.m */,
-			);
-			path = Presenters;
 			sourceTree = "<group>";
 		};
 		72324F7F15A910820034CA8F /* Views */ = {
@@ -357,7 +344,6 @@
 			files = (
 				72324F4A15A9102B0034CA8A /* main.m in Sources */,
 				72324F4E15A9102B0034CA8A /* AppDelegate.m in Sources */,
-				72324F7F15A910820034CA92 /* BookListPresenter.m in Sources */,
 				72324F7F15A910820034CA98 /* DisplayBooksTableViewController.m in Sources */,
 				72324F7F15A910820034CA9F /* FakeBookStoreRepository.m in Sources */,
 			);

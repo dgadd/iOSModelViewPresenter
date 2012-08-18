@@ -1,13 +1,7 @@
 #import "DisplayBooksTableViewController.h"
-#import "BookListPresenter.h"
 #import "IBookStoreRepository.h"
 #import "FakeBookStoreRepository.h"
 
-@interface DisplayBooksTableViewController ()
-- (BookListPresenter *)delegateDependencyInjectionToAnIocContainer;
-
-
-@end
 
 @implementation DisplayBooksTableViewController
 @synthesize books = _books;
@@ -22,14 +16,27 @@
     return self;
 }
 
+- (id)initWithBookStoreRepository:(id <IBookStoreRepository>)bookStoreRepository andDisplayBooksView:(id <IDisplayBooksView>)displayBooksView {
+    if (self = [super init]) {
+        _bookStoreRepository = bookStoreRepository;
+        _displayBooksView = displayBooksView;
+    }
+
+    return self;
+}
+
 - (void)displayBooks:(NSArray *)books {
     _books = books;
 }
 
+- (void)displayBooksFromBookstore {
+    NSArray *const books = [_bookStoreRepository findAllBooks];
+    [_displayBooksView displayBooks:books];
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
-    BookListPresenter *presenter = [self delegateDependencyInjectionToAnIocContainer];
-    [presenter displayBooksFromBookstore];
+    [self displayBooksFromBookstore];
 }
 
 - (void)viewDidUnload {
@@ -58,13 +65,6 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
     // do nothing
-}
-
-- (BookListPresenter *)delegateDependencyInjectionToAnIocContainer {
-    id<IBookStoreRepository> bookStoreRepository = [[FakeBookStoreRepository alloc] init];
-    BookListPresenter *const presenter = [[BookListPresenter alloc] initWithBookStoreRepository:bookStoreRepository
-                                                                            andDisplayBooksView:self];
-    return presenter;
 }
 
 
