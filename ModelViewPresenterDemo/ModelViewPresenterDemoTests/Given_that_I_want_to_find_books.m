@@ -1,4 +1,4 @@
-#import "BookListPresenterTests.h"
+#import "Given_that_I_want_to_find_books.h"
 #import "BookListPresenter.h"
 #import "OCMockObject.h"
 #import "IDisplayBooksView.h"
@@ -6,13 +6,13 @@
 #import "IBookStoreRepository.h"
 #import "FakeBookStoreRepository.h"
 
-@implementation BookListPresenterTests
+@implementation Given_that_I_want_to_find_books
 
 - (void)setUp {
     [super setUp];
 }
 
-- (void)testMockDisplayBooksFromBookStoreMethod_callToRepositoryToFindAll_booksAreBoundToView {
+- (void)test_when_I_ask_to_display_books_from_bookstore_then_repository_finds_and_returns_all_books {
     NSArray* books = [NSArray arrayWithObjects:@"Moby Dick", @"The Grapes of Wrath", @"Tale of Two Cities", nil];
 
     id bookStoreRepository = [OCMockObject mockForProtocol:@protocol(IBookStoreRepository)];
@@ -29,7 +29,7 @@
     [displayBooksView verify];
 }
 
-- (void)testDisplayBooksFromBookStoreMethod_callToRepositoryToFindAll_booksAreBoundToView {
+- (void)test_when_the_repository_is_called_to_find_all_books_then_the_expected_set_is_returned {
     NSArray*expectedBooks = [NSArray arrayWithObjects:@"Moby Dick",
                                          @"A Tale of Two Cities",
                                          @"Great Expectations",

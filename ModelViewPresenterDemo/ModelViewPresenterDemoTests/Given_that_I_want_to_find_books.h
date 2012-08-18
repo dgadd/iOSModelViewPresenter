@@ -2,7 +2,7 @@
 
 @class BookListPresenter;
 
-@interface BookListPresenterTests : SenTestCase {
+@interface Given_that_I_want_to_find_books : SenTestCase {
     BookListPresenter *sut;
 }
 

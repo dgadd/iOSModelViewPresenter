@@ -20,7 +20,7 @@
 		72324F6115A9102B0034CA8A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72324F3F15A9102B0034CA8A /* Foundation.framework */; };
 		72324F6915A9102B0034CA8A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 72324F6715A9102B0034CA8A /* InfoPlist.strings */; };
 		72324F7F15A910820034CA8A /* libOCMock.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 72324F7715A910820034CA8A /* libOCMock.a */; };
-		72324F7F15A910820034CA8D /* BookListPresenterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 72324F7F15A910820034CA8C /* BookListPresenterTests.m */; };
+		72324F7F15A910820034CA8D /* Given_that_I_want_to_find_books.m in Sources */ = {isa = PBXBuildFile; fileRef = 72324F7F15A910820034CA8C /* Given_that_I_want_to_find_books.m */; };
 		72324F7F15A910820034CA92 /* BookListPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 72324F7F15A910820034CA91 /* BookListPresenter.m */; };
 		72324F7F15A910820034CA98 /* DisplayBooksTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72324F7F15A910820034CA97 /* DisplayBooksTableViewController.m */; };
 		72324F7F15A910820034CA9F /* FakeBookStoreRepository.m in Sources */ = {isa = PBXBuildFile; fileRef = 72324F7F15A910820034CA9E /* FakeBookStoreRepository.m */; };
@@ -60,8 +60,8 @@
 		72324F7C15A910820034CA8A /* OCMock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCMock.h; sourceTree = "<group>"; };
 		72324F7D15A910820034CA8A /* OCMockObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCMockObject.h; sourceTree = "<group>"; };
 		72324F7E15A910820034CA8A /* OCMockRecorder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCMockRecorder.h; sourceTree = "<group>"; };
-		72324F7F15A910820034CA8B /* BookListPresenterTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookListPresenterTests.h; sourceTree = "<group>"; };
-		72324F7F15A910820034CA8C /* BookListPresenterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookListPresenterTests.m; sourceTree = "<group>"; };
+		72324F7F15A910820034CA8B /* Given_that_I_want_to_find_books.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Given_that_I_want_to_find_books.h; sourceTree = "<group>"; };
+		72324F7F15A910820034CA8C /* Given_that_I_want_to_find_books.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Given_that_I_want_to_find_books.m; sourceTree = "<group>"; };
 		72324F7F15A910820034CA91 /* BookListPresenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookListPresenter.m; sourceTree = "<group>"; };
 		72324F7F15A910820034CA93 /* BookListPresenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookListPresenter.h; sourceTree = "<group>"; };
 		72324F7F15A910820034CA94 /* IDisplayBooksView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDisplayBooksView.h; sourceTree = "<group>"; };
@@ -159,8 +159,8 @@
 		72324F6415A9102B0034CA8A /* ModelViewPresenterDemoTests */ = {
 			isa = PBXGroup;
 			children = (
-				72324F7F15A910820034CA8C /* BookListPresenterTests.m */,
-				72324F7F15A910820034CA8B /* BookListPresenterTests.h */,
+				72324F7F15A910820034CA8C /* Given_that_I_want_to_find_books.m */,
+				72324F7F15A910820034CA8B /* Given_that_I_want_to_find_books.h */,
 				72324F6515A9102B0034CA8A /* Supporting Files */,
 			);
 			path = ModelViewPresenterDemoTests;
@@ -367,7 +367,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				72324F7F15A910820034CA8D /* BookListPresenterTests.m in Sources */,
+				72324F7F15A910820034CA8D /* Given_that_I_want_to_find_books.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
